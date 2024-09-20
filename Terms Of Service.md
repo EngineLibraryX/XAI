@@ -8,7 +8,7 @@
 
 2. **Eligibility**. 
 
-You must be at least 18 years of age to use this Service. By agreeing to these Terms of Service, you represent and warrant that you are at least 13-14 years of age and that you have the legal capacity to enter into a contract in the jurisdiction where you reside.
+You must be at least 13-14 years of age to use this Service. By agreeing to these Terms of Service, you represent and warrant that you are at least 13-14 years of age and that you have the legal capacity to enter into a contract in the jurisdiction where you reside.
 
 3. **Your Account**. 
 
