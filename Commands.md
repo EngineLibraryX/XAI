@@ -1,5 +1,7 @@
 **terminal command**
 
+- Prefix: $
+
 - clear -- clears the terminal screen 
 - reset -- reset the terminal settings to default 
 - exit -- close the terminal session 
@@ -62,3 +64,8 @@
 - nslookup [options] [hostname] -- query internet name servers interactively 
 - netstat [options] -- display network statistics and information 
 - ifconfig [options] -- configure a network interface or view its current state
+
+**Terminal command access requirements**
+- Create a terminal session using x!terminal
+- if having problem a terminal session use x!closeterminal to stop the session
+- Use $ as default prefix for terminal commands
