@@ -69,3 +69,13 @@
 - Create a terminal session using x!terminal
 - if having problem a terminal session use x!closeterminal to stop the session
 - Use $ as default prefix for terminal commands
+
+**Terminal Operating systems**
+- V1 = Agro
+- V2 = Elza
+- V3 = model X
+- Vb4 = Xzo
+- V4 = Zoxi
+- V5 = Oxcola
+- V6 = Czomola
+- V7 = Wilux Droid
