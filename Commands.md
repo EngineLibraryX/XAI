@@ -66,7 +66,7 @@
 - $ifconfig [options] -- configure a network interface or view its current state
 
 **Terminal command access requirements**
-- Create a terminal session using x!terminal
+- Create a terminal session using x!terminal [OS] (Operating systems are described below)
 - if having problem a terminal session use x!closeterminal to stop the session
 - Use $ as default prefix for terminal commands
 
