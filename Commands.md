@@ -1,3 +1,7 @@
+*Note*
+- Terminal system is on early testing phase so it may have some bugs and some times it might not work.
+- Testing phase version: 4.8 Beta
+
 **terminal command**
 
 - Prefix: $
